@@ -5,6 +5,7 @@ This python script is a tool to convert decimal numbers (specifically numbers be
 NOTE: Lmaoooo i just found out, that there's a built-in way in Python to do this. smh. still had fun making this tho.
 
 #essentially, this is how it would be done.
+
 number = 97
 ascii = chr(number)
 

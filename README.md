@@ -7,6 +7,7 @@ NOTE: Lmaoooo i just found out, that there's a built-in way in Python to do this
 #essentially, this is how it would be done.
 
 number = 97
+
 ascii = chr(number)
 
 print(ascii)
